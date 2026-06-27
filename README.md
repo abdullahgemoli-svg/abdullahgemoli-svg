@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Abdullah Al-Gemoly
 
-<!--
-**abdullahgemoli-svg/abdullahgemoli-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Student passionate about software development and building practical applications.
 
-Here are some ideas to get you started:
+Currently following the Programming Advices roadmap to strengthen my skills in software engineering and desktop application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Problem Solving
+- SQL Server
+- Git & GitHub
+
+## Current Project
+
+### Bank Management System
+
+A desktop banking application developed in C++ using Object-Oriented Programming and file handling concepts.
+
+## Learning Journey
+
+I believe that consistent practice is the key to becoming a better software engineer. Every project I build is an opportunity to improve my coding style, problem-solving abilities, and software design skills.
+
+## Goals
+
+- Build professional desktop applications
+- Master Data Structures & Algorithms
+- Learn Database Design
+- Become a Software Engineer
